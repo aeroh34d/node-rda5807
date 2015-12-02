@@ -1,0 +1,6 @@
+{
+  "name": "node-rda5807",
+  "dependencies": [
+    "rpio": "latest"
+  ]
+}
